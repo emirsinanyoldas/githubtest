@@ -1,2 +1,3 @@
 git öğrenmek için youtube videosundan gördüklerimi yazıyorum
 bunları ekstra eklendi
+terminali VS üzerinden açıp eklemeler yapmak çok daha kolay
